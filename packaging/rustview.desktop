@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=RustView
+Comment=Lightweight image viewer
+Exec=rustview %f
+Icon=rustview
+Terminal=false
+Categories=Graphics;Viewer;
+MimeType=image/png;image/jpeg;image/gif;image/webp;image/bmp;image/tiff;image/x-icon;image/x-tga;image/qoi;image/x-portable-anymap;
+StartupWMClass=rustview
